@@ -11,18 +11,17 @@ export function Footer() {
     <Container className="footer">
       <a href="/" className="logo">
         <span>J</span>
-        <span>Tulio</span>
+        <span>Chen</span>
       </a>
       <div>
         <p>
-          Este site foi feito com <img src={reactIcon} alt="React" /> e muito
-          <span>❤️</span>
+          Made with <span>❤️</span> by Jason. Built from JTulio <img src={reactIcon} alt="React" />.
         </p>
       </div>
 
       <div className="social-media">
         <a
-          href="https://www.linkedin.com/in/jtsoares/"
+          href="https://www.linkedin.com/in/jason-chen-hello/"
           target="_blank"
           rel="noreferrer"
         >
@@ -30,28 +29,13 @@ export function Footer() {
         </a>
 
         <a
-          href="https://github.com/joaotuliojt"
+          href="https://github.com/JasonChen47"
           target="_blank"
           rel="noreferrer"
         >
           <img src={githubIcon} alt="GitHub" />
         </a>
 
-        <a
-          href="https://www.instagram.com/tulio_joaob/"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <img src={instagramIcon} alt="Instagram" />
-        </a>
-
-        <a
-          href="https://discord.com/users/426120432991862784"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <img src={discordIcon} alt="Discord" />
-        </a>
       </div>
     </Container>
   )
