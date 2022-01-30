@@ -9,7 +9,9 @@ import reactIcon from "../../assets/react-icon.svg";
 import typescriptIcon from "../../assets/typescript-icon.svg";
 import vueIcon from "../../assets/vue-icon.svg";
 import ScrollAnimation from "react-animate-on-scroll";
+import bambooprofile from "../../assets/bambooprofile.jpg";
 
+declare module '*.jpg';
 
 export function About(){
   return(
@@ -81,7 +83,7 @@ export function About(){
       </div>
       <div className="about-image">
         <ScrollAnimation animateIn="fadeInRight" delay={0.6 * 1000}>
-          <img src="https://portfolio-joaotulio.vercel.app/img/foto_antiga.jpg" alt="Imagem de perfil" />
+          <img src={bambooprofile} alt="Imagem de perfil" />
         </ScrollAnimation>
       </div>
     </Container>
