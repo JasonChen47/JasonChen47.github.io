@@ -1,12 +1,14 @@
-# Portfólio João Túlio
+# My portfolio (Jason Chen)
 
-Este projeto foi criado com CRA (Create React App).
+This project was made using react (Create React App).
 
-Este é meu site para me apresentar, aqui coloco minhas habilidades, portfólio, e formas de contato.
+It is to present my resume, skills, projects, and interests 
 
 
-## Tecnologias usadas:
+## Technologies used:
 - React
 - Typescript
 - Styled Components
+
+Built from a website template by João Túlio
 
