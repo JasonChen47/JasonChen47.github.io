@@ -1,33 +1,32 @@
 {
   "files": {
     "main.css": "/static/css/main.43c86f1c.css",
-    "main.js": "/static/js/main.29142dea.js",
+    "main.js": "/static/js/main.a2f7b281.js",
     "static/media/bambooprofile.jpg": "/static/media/bambooprofile.352d72ae164cdcd3d59b.jpg",
     "static/media/resumedecember.pdf": "/static/media/resumedecember.3335c9d9356e711017e7.pdf",
     "static/media/github.png": "/static/media/github.a855c3975c028d8069f5.png",
     "static/media/linkedin.png": "/static/media/linkedin.f249b38224ca41a0b909.png",
     "static/media/illustration.svg": "/static/media/illustration.cf4b7a67f23b684549c4f797c62b527a.svg",
-    "static/media/sass-icon.svg": "/static/media/sass-icon.8351205a93eafac2e392b26acf7580e1.svg",
-    "static/media/mysql-icon.svg": "/static/media/mysql-icon.e5a509a5d3ca7443ae6ccf379181381d.svg",
-    "static/media/node-icon.svg": "/static/media/node-icon.3dc364b8e9beb3561620274aea4f0844.svg",
-    "static/media/typescript-icon.svg": "/static/media/typescript-icon.17d5e87eac2c9d1dc722ce1e0b60d5df.svg",
-    "static/media/bootstrap-icon.svg": "/static/media/bootstrap-icon.be374cc9bd654654918df2362bcfb240.svg",
+    "static/media/python-icon.svg": "/static/media/python-icon.a38e5657954f1678f7dfd5ab286abb04.svg",
     "static/media/react-icon.svg": "/static/media/react-icon.f1484e295933af0e748d6a01b05a8361.svg",
+    "static/media/c-icon.svg": "/static/media/c-icon.a776a608546a79750b150829bc9b099e.svg",
+    "static/media/matlab-icon.svg": "/static/media/matlab-icon.8e6053506a862c53a0cdd611c194d7f0.svg",
     "index.html": "/index.html",
     "static/media/phone-icon.svg": "/static/media/phone-icon.91617f27ac814ef5f29b533ab3d256ec.svg",
+    "static/media/swift-icon.svg": "/static/media/swift-icon.5d9d92c4058b3c9691795d4e588df30a.svg",
+    "static/media/java-icon.svg": "/static/media/java-icon.3c5854fce4aa30ad19d569c45d5ce874.svg",
     "static/media/email-icon.svg": "/static/media/email-icon.a83578f914460e952501546655b76165.svg",
     "static/media/html-icon.svg": "/static/media/html-icon.ebfc51e406097a90691ab82f1aa72db3.svg",
-    "static/media/css-icon.svg": "/static/media/css-icon.60a6c50d5a470990f63ee17a3bbd9178.svg",
     "static/media/vscode-icon.svg": "/static/media/vscode-icon.3001bc63a45d488b7d2c332e4a2059ad.svg",
+    "static/media/tensorflow-icon.svg": "/static/media/tensorflow-icon.f5088e8e377a3d03f117bb28ce544789.svg",
     "static/media/js-icon.svg": "/static/media/js-icon.ffcf56dc5498f7bbbec802191c740e5f.svg",
-    "static/media/vue-icon.svg": "/static/media/vue-icon.c286d2da48ffbf281f407b0c4c94271f.svg",
     "static/media/github-icon.svg": "/static/media/github-icon.c48bfb2a53c47ee345a50672e3d24e07.svg",
     "static/media/external-link-icon.svg": "/static/media/external-link-icon.97075d22dfb22a8c8d253b264e892b5f.svg",
     "main.43c86f1c.css.map": "/static/css/main.43c86f1c.css.map",
-    "main.29142dea.js.map": "/static/js/main.29142dea.js.map"
+    "main.a2f7b281.js.map": "/static/js/main.a2f7b281.js.map"
   },
   "entrypoints": [
     "static/css/main.43c86f1c.css",
-    "static/js/main.29142dea.js"
+    "static/js/main.a2f7b281.js"
   ]
 }
