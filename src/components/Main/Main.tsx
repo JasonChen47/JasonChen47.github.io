@@ -23,6 +23,7 @@ import pythonIcon from "../../assets/python-icon.svg";
 import javaIcon from "../../assets/java-icon.svg";
 import tensorflowIcon from "../../assets/tensorflow-icon.svg";
 import swiftIcon from "../../assets/swift-icon.svg";
+import figmaIcon from "../../assets/figma-icon.svg";
 
 
 export function Main(){
@@ -184,7 +185,7 @@ export function Main(){
                 "height": 20
               },
               {
-                "src": jsIcon,
+                "src": figmaIcon,
                 "width": 20,
                 "height": 20
               },

@@ -7,7 +7,7 @@ import { Form } from "../Form/Form";
 export function Contact(){
 
   return(
-    <Container id="contato">
+    <Container id="contact">
       <header>
         <h2>Get in contact with me</h2>
         <p>If you want to work on something together or just talk, feel free to get in touch!</p>

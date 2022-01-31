@@ -23,7 +23,7 @@ declare module '*.jpg';
 
 export function About(){
   return(
-    <Container id="sobre">
+    <Container id="about">
       <div className="about-text">
         <ScrollAnimation animateIn="fadeInLeft">
           <h2>About me</h2>
