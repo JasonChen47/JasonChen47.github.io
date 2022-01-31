@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.43c86f1c.css",
-    "main.js": "/static/js/main.a2f7b281.js",
+    "main.js": "/static/js/main.f8e000ba.js",
     "static/media/bambooprofile.jpg": "/static/media/bambooprofile.352d72ae164cdcd3d59b.jpg",
     "static/media/resumedecember.pdf": "/static/media/resumedecember.3335c9d9356e711017e7.pdf",
     "static/media/github.png": "/static/media/github.a855c3975c028d8069f5.png",
@@ -20,13 +20,14 @@
     "static/media/vscode-icon.svg": "/static/media/vscode-icon.3001bc63a45d488b7d2c332e4a2059ad.svg",
     "static/media/tensorflow-icon.svg": "/static/media/tensorflow-icon.f5088e8e377a3d03f117bb28ce544789.svg",
     "static/media/js-icon.svg": "/static/media/js-icon.ffcf56dc5498f7bbbec802191c740e5f.svg",
+    "static/media/figma-icon.svg": "/static/media/figma-icon.72ff35026c53ba574aef54c980db0e8d.svg",
     "static/media/github-icon.svg": "/static/media/github-icon.c48bfb2a53c47ee345a50672e3d24e07.svg",
     "static/media/external-link-icon.svg": "/static/media/external-link-icon.97075d22dfb22a8c8d253b264e892b5f.svg",
     "main.43c86f1c.css.map": "/static/css/main.43c86f1c.css.map",
-    "main.a2f7b281.js.map": "/static/js/main.a2f7b281.js.map"
+    "main.f8e000ba.js.map": "/static/js/main.f8e000ba.js.map"
   },
   "entrypoints": [
     "static/css/main.43c86f1c.css",
-    "static/js/main.a2f7b281.js"
+    "static/js/main.f8e000ba.js"
   ]
 }
