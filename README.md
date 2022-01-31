@@ -1,5 +1,7 @@
 # My portfolio (Jason Chen)
 
+jasonwchen.com
+
 This project was made using react (Create React App).
 
 It is to present my resume, skills, projects, and interests 
