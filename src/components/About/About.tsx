@@ -8,8 +8,16 @@ import nodeIcon from "../../assets/node-icon.svg";
 import reactIcon from "../../assets/react-icon.svg";
 import typescriptIcon from "../../assets/typescript-icon.svg";
 import vueIcon from "../../assets/vue-icon.svg";
+import matlabIcon from "../../assets/matlab-icon.svg";
+import cIcon from "../../assets/c-icon.svg";
+import pythonIcon from "../../assets/python-icon.svg";
+import javaIcon from "../../assets/java-icon.svg";
+import swiftIcon from "../../assets/swift-icon.svg";
+
 import ScrollAnimation from "react-animate-on-scroll";
+
 import bambooprofile from "../../assets/bambooprofile.jpg";
+
 
 declare module '*.jpg';
 
@@ -33,7 +41,7 @@ export function About(){
         </ScrollAnimation>
 
         <ScrollAnimation animateIn="fadeInLeft" delay={0.7 * 1000}>
-          <h3>Here are some coding languages I use:</h3>
+          <h3>Here are some coding skills I have:</h3>
         </ScrollAnimation>
         <div className="hard-skills">
 
@@ -45,7 +53,7 @@ export function About(){
 
           <div className="hability">
           <ScrollAnimation animateIn="fadeInUp" delay={0.2 * 1000}>
-            <img src={vueIcon} alt="Vue" />
+            <img src={matlabIcon} alt="Matlab" />
           </ScrollAnimation>
           </div>
 
@@ -57,24 +65,24 @@ export function About(){
 
           <div className="hability">
           <ScrollAnimation animateIn="fadeInUp" delay={0.4 * 1000}> 
-            <img src={htmlIcon} alt="Html" />
+            <img src={swiftIcon} alt="Swift" />
           </ScrollAnimation>
           </div>
 
           <div className="hability">
           <ScrollAnimation animateIn="fadeInUp" delay={0.5 * 1000}> 
-            <img src={cssIcon} alt="Css" />
+            <img src={cIcon} alt="C++" />
           </ScrollAnimation>
           </div>
           <div className="hability">
           <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}> 
-            <img src={nodeIcon} alt="Node" />
+            <img src={javaIcon} alt="Java" />
           </ScrollAnimation>
           </div>
 
           <div className="hability">
           <ScrollAnimation animateIn="fadeInUp" delay={0.7 * 1000}>
-            <img src={typescriptIcon} alt="Typescript" />
+            <img src={pythonIcon} alt="Python" />
           </ScrollAnimation>
           </div>
 

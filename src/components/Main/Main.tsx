@@ -17,6 +17,13 @@ import typescriptIcon from "../../assets/typescript-icon.svg";
 import vscodeIcon from "../../assets/vscode-icon.svg";
 import vueIcon from "../../assets/vue-icon.svg";
 
+import matlabIcon from "../../assets/matlab-icon.svg";
+import cIcon from "../../assets/c-icon.svg";
+import pythonIcon from "../../assets/python-icon.svg";
+import javaIcon from "../../assets/java-icon.svg";
+import tensorflowIcon from "../../assets/tensorflow-icon.svg";
+import swiftIcon from "../../assets/swift-icon.svg";
+
 
 export function Main(){
   return(
@@ -152,12 +159,12 @@ export function Main(){
             },
             "image": [
               {
-                "src": boostrapIcon,
+                "src": matlabIcon,
                 "width": 20,
                 "height": 20
               },
               {
-                "src": cssIcon,
+                "src": cIcon,
                 "width": 20,
                 "height": 20
               },
@@ -172,12 +179,12 @@ export function Main(){
                 "height": 20
               },
               {
-                "src": mysqlIcon,
+                "src": pythonIcon,
                 "width": 20,
                 "height": 20
               },
               {
-                "src": nodeIcon,
+                "src": jsIcon,
                 "width": 20,
                 "height": 20
               },
@@ -187,12 +194,12 @@ export function Main(){
                 "height": 20
               },
               {
-                "src": sassIcon,
+                "src": swiftIcon,
                 "width": 20,
                 "height": 20
               },
               {
-                "src": typescriptIcon,
+                "src": tensorflowIcon,
                 "width": 20,
                 "height": 20
               },
@@ -202,7 +209,7 @@ export function Main(){
                 "height": 20
               },
               {
-                "src": vueIcon,
+                "src": javaIcon,
                 "width": 20,
                 "height": 20
               },
