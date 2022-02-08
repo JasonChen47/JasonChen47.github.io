@@ -7367,6 +7367,13 @@
   "resolved" "https://registry.npmjs.org/react-is/-/react-is-17.0.2.tgz"
   "version" "17.0.2"
 
+"react-konami-code@^2.2.2":
+  "integrity" "sha512-TTrdZqA25WItE6Pk6bjoIu/YKjQ6aRmk70TIqGb/tmj2tiYYcKTeDutcnikYJcX3RPsUW7CHFULq2T4svbFc+A=="
+  "resolved" "https://registry.npmjs.org/react-konami-code/-/react-konami-code-2.2.2.tgz"
+  "version" "2.2.2"
+  dependencies:
+    "prop-types" "^15.7.2"
+
 "react-refresh@^0.11.0", "react-refresh@>=0.10.0 <1.0.0":
   "integrity" "sha512-F27qZr8uUqwhWZboondsPx8tnC3Ct3SxZA3V5WyEvujRyyNv0VYPhoBg1gZ8/MV5tubQp76Trw8lTv9hzRBa+A=="
   "resolved" "https://registry.npmjs.org/react-refresh/-/react-refresh-0.11.0.tgz"
