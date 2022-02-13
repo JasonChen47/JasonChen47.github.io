@@ -17,12 +17,12 @@ export function Hero(){
           <h3>Innovator in Training</h3>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
-          <p className="small-resume">Come see what I've been working on! :)</p>
+          <p className="small-resume">Come see what I've been working on! :) ...also try out the konami code if ur bored</p>
         </ScrollAnimation>
 
           <ScrollAnimation animateIn="fadeInUp" delay={0.8*1000}>
             <BrowserRouter>
-              <NavHashLink smooth to="#contato" className="button">Message me!</NavHashLink>
+              <NavHashLink smooth to="#contact" className="button">Message me!</NavHashLink>
             </BrowserRouter>
           </ScrollAnimation>
       </div>
